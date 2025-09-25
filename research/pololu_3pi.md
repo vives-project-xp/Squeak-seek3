@@ -6,6 +6,7 @@
 ## Overview
 
 The **Pololu 3pi robot** is a compact, versatile platform for robotics enthusiasts and educators. It features an ATmega168 or ATmega328 microcontroller and offers several accessible pins for various functions.
+https://www.generationrobots.com/media/3pi-mobile-robot-user-guide-fm.pdf
 
 ---
 
@@ -73,5 +74,6 @@ A 2x7 header exposes several I/O pins for expansion (sensors, actuators, etc.). 
 
 - 📖 [Pololu 3pi Robot User’s Guide](https://www.pololu.com/docs/0J21/)
 - 🗺️ [Simplified Schematic Diagram](https://www.pololu.com/picture/view/0J1164)
+
 
 ---
