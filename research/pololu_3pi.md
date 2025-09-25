@@ -17,13 +17,13 @@ The 3pi robot provides several accessible pins located between the two motors on
 
 | Pin         | Default Connection/Function                                 | Notes                                      |
 |-------------|-------------------------------------------------------------|--------------------------------------------|
-| **PC5**     | IR sensor emitters (ADC5)                                  | Digital I/O or analog input if jumper off  |
+| **PC5**     | IR sensor emitters (ADC5)                                   | Digital I/O or analog input if jumper off  |
 | **ADC6**    | Battery voltage divider                                     | Analog input if jumper off                 |
 | **ADC7**    | User trimmer potentiometer                                  | Analog input if jumper off                 |
-| **PD0 (RX)**| Serial receive                                             |                                            |
-| **PD1 (TX)**| Serial transmit                                            |                                            |
-| **PD2–PD7** | General-purpose digital I/O                                |                                            |
-| **PB0–PB5** | General-purpose digital I/O                                |                                            |
+| **PD0 (RX)**| Serial receive                                              |                                            |
+| **PD1 (TX)**| Serial transmit                                             |                                            |
+| **PD2–PD7** | General-purpose digital I/O                                 |                                            |
+| **PB0–PB5** | General-purpose digital I/O                                 |                                            |
 
 ### Motor Driver Connections
 
