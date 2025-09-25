@@ -75,7 +75,3 @@ A 2x7 header exposes several I/O pins for expansion (sensors, actuators, etc.). 
 - 🗺️ [Simplified Schematic Diagram](https://www.pololu.com/picture/view/0J1164)
 
 ---
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
