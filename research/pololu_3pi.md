@@ -45,6 +45,16 @@ The 3pi robot provides several accessible pins located between the two motors on
 
 ## Usage
 
+### On board Components
+#### IR Sensors
+The 3pi robot includes five infrared sensors for line following and obstacle detection. These sensors are connected to the microcontroller's ADC pins, allowing for analog readings of reflected IR light intensity.
+
+### Buzzer
+The onboard buzzer can be controlled via a digital pin to produce sound for alerts or feedback.
+
+### Buttons
+The 3pi robot has three user buttons connected to specific digital pins, allowing for user input and interaction with the robot's programs.
+
 ### Powering Up
 
 The 3pi robot is powered by four AA batteries. Ensure correct installation and sufficient charge. An onboard voltage regulator manages power distribution.
