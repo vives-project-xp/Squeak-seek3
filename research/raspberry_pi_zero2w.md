@@ -3,3 +3,4 @@ Raspberry Pi Zero 2 W Pin Layout:
 
 Raspberry Pi Zero 2 W Pad Diagram:
 <img width="1225" height="866" alt="raspberry_pi_zero_2_w_pad_diagram" src="https://github.com/user-attachments/assets/2b7bf244-3ade-44b5-b452-ddfed62c355b" />
+
